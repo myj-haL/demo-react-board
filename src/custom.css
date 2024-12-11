@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    padding: 30px 0;
+    
+}
+
+table tr {
+    line-height: 2.14;
+}
+
+table tr td {
+    min-width: 350px;
+}
+
+.form-box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.submit-btn {
+    align-self: flex-end;
+}
+
+.react-list-wrap {
+    display: block;
+    padding: 30px 0;
+    
+}
+
+.react-list-wrap h2 {
+    text-align: center;
+    display: block;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
